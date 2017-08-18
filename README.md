@@ -26,7 +26,7 @@ import Forage from 'react-localforage'
 
 ### `Forage.GetItem`
 
-```javascript
+```jsx
 <Forage.GetItem
   key='auth-token'
   render={({inProgress, value, error}) => {
@@ -47,7 +47,7 @@ import Forage from 'react-localforage'
 
 ### `Forage.SetItem`
 
-```javascript
+```jsx
 <Forage.SetItem
   itemKey='auth-token'
   itemValue={authToken}
