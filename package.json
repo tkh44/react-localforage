@@ -1,6 +1,6 @@
 {
   "name": "react-localforage",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Declarative localForage in React",
   "jsnext:main": "dist/react-localforage.es.js",
   "module": "dist/react-localforage.es.js",
@@ -24,8 +24,8 @@
     "localforage": "^1.5.0"
   },
   "peerDependencies": {
-    "react": ">=14",
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "react": ">=14"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
@@ -47,6 +47,8 @@
     "rimraf": "^2.6.1",
     "rollup": "^0.47.2",
     "rollup-plugin-babel": "^3.0.1",
+    "rollup-plugin-commonjs": "^8.1.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
     "standard": "^10.0.2",
     "strip-json-comments-cli": "^1.0.1",
     "uglify-js": "^2.8.22"
