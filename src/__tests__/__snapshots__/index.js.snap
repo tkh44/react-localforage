@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Forage.GetItem renders 1`] = `null`;
+
+exports[`Forage.GetItem renders with children 1`] = `null`;
+
+exports[`Forage.SetItem renders 1`] = `null`;
+
+exports[`Forage.SetItem renders with children 1`] = `null`;
+
+exports[`react-localforage renders 1`] = `null`;
+
+exports[`react-localforage renders with children 1`] = `null`;
