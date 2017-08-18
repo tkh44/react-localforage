@@ -1,6 +1,6 @@
 {
   "name": "react-localforage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Declarative localForage in React",
   "jsnext:main": "dist/react-localforage.es.js",
   "module": "dist/react-localforage.es.js",
