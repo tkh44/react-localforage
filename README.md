@@ -9,8 +9,8 @@ Declarative [localForage](https://github.com/localForage/localForage) in React
 
 -   [Install](#install)
 -   [API](#api)
-  -   [Forage.GetItem](#forage-getitem)
-  -   [Forage.SetItem](#forage-setitem)
+  -   [Forage.GetItem](#foragegetitem)
+  -   [Forage.SetItem](#foragesetitem)
 
 ## Install
 
