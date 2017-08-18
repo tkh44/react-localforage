@@ -8,9 +8,8 @@ Declarative [localForage](https://github.com/localForage/localForage) in React
 [![codecov](https://codecov.io/gh/tkh44/react-localforage/branch/master/graph/badge.svg)](https://codecov.io/gh/tkh44/react-localforage)
 
 -   [Install](#install)
--   [API](#api)
-  -   [Forage.GetItem](#foragegetitem)
-  -   [Forage.SetItem](#foragesetitem)
+-   [Forage.GetItem](#foragegetitem)
+-   [Forage.SetItem](#foragesetitem)
 
 ## Install
 
