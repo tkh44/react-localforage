@@ -7,7 +7,3 @@ exports[`Forage.GetItem renders with children 1`] = `null`;
 exports[`Forage.SetItem renders 1`] = `null`;
 
 exports[`Forage.SetItem renders with children 1`] = `null`;
-
-exports[`react-localforage renders 1`] = `null`;
-
-exports[`react-localforage renders with children 1`] = `null`;
