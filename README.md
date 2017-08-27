@@ -27,7 +27,7 @@ import Forage from 'react-localforage'
 
 ```jsx
 <Forage.GetItem
-  key='auth-token'
+  itemKey='auth-token'
   render={({inProgress, value, error}) => {
     return (
       <div>
